@@ -14,6 +14,7 @@
 ![markdown](https://cdn.discordapp.com/attachments/948535455736033290/1011489964703350784/unknown.png)
 ## Step 4:
 ## create pipline using Azure Factory 
+![image](https://user-images.githubusercontent.com/83798953/186123878-7e3efcb9-45c0-405d-90ca-9b883efa6403.png)
 
 
 
